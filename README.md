@@ -22,3 +22,6 @@ c. Data Visualization and Publishing
 The business tools used in this project include:
 - Microsoft Excel - Pivot Tables and Excel Analytics
 - Tableau
+
+Solutions on Excel:
+https://drive.google.com/file/d/1Lbk64347E6IkD48-EPK1lpiDZl-nLVej/view?usp=sharing
